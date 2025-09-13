@@ -1,11 +1,3 @@
-# Real-time object detection application
-
-Web application for _real-time_ object detection on video streaming via web browser.
-
-[![layout](_source/layout.jpg)](https://www.youtube.com/watch?v=3JUA47-QOKo&t=59s)
-
-Watch the [demo video](https://www.youtube.com/watch?v=3JUA47-QOKo&t=59s).
-
 ## Installation
 
 Create and activate an virtual environment, as follows:
